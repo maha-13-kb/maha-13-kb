@@ -9,10 +9,7 @@
  
  🤔 I’m looking for help with ... **Neural Networks**
  
- 📫 How to reach me:  
-      **mahashruthispips@gmail.com**
- 
- 😄 I'm currently looking for: ... **A Summer internship for one month as a Data Analyst**
+ 📫 How to reach me:    **mahashruthispips@gmail.com**
  
  ⚡ I'm actively applying for: ... **A 6 month internship from May to October required by my course**
 ____________________________________________________________________________________________________________
