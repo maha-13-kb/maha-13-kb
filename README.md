@@ -12,6 +12,8 @@
  📫 How to reach me:    **mahashruthispips@gmail.com**
  
  ⚡ I'm actively applying for: ... **A 6 month internship from May to October required by my course**
+ 
+  👩🏻‍💻 Roles intereseted in: ... **Data Analyst, Machine Learning Engineer**
 ____________________________________________________________________________________________________________
 <h3 align="left">Connect with me:</h3>
 <p align="left">
