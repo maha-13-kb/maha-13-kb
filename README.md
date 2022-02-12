@@ -14,6 +14,8 @@
  ⚡ I'm actively applying for: ... **A 6 month internship from May to October required by my course**
  
   👩🏻‍💻 Roles intereseted in: ... **Data Analyst, Machine Learning Engineer**
+  
+  📝 View my resume here : ... **[Mahashruthi KB - Resume](https://github.com/maha-13-kb/maha-13-kb/blob/main/MahashruthiKB-Resume.pdf)**
 ____________________________________________________________________________________________________________
 <h3 align="left">Connect with me:</h3>
 <p align="left">
